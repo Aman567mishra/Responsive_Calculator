@@ -1,4 +1,4 @@
-# Responesive calculated
+# Responesive calculator
 
 **Description:**
 The Responsive Calculator project is a simple web application built using HTML, CSS, and JavaScript. It provides a user-friendly interface for performing basic arithmetic calculations such as addition, subtraction, multiplication, and division. This calculator is designed to work seamlessly on various devices, including desktops, tablets, and mobile phones, thanks to its responsive design.
